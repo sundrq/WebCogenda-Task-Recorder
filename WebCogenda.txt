@@ -1,0 +1,41 @@
+Іноді у нас немає часу а то і бажання домовлятись за час зустрічі. А іноді ми не знаємо, коли ми будемо вільні, тому чекаємо цілий день, поки справи буде виконано і тільки тоді ми будемо спроможні відповісти, коли ми все ж таки вільні. 
+Я ж придумала просту систему, яка буде зручна для всіх, і для тих, хто знає всі часові рамки своїх завдань, і для тих, хто цього не знає. Чому ця система зручна?
+ 1) По-перше, тому що назначені завдання виступають у вигляді повідомлень, як у чаті. Я вибрала такий інтерфейс з причин легкості користування, звичного нам вигляду чату, задля ефекту простоти та шидкості, а також для приємного досвіду користування, без лякаючих нас серйозних інтерфейсів стандартних планерів. (Якщо когось вони звісно лякають).
+2) Підкреслюючи перший пункт хочу додати, що завдання не обов'язково мають бути закріпленими із часовими рамками. Ви можете додати так зване "повідомлення" (завдання), включаючи лише його назву чи опис та якщо потрібно, перетягнути його вище чи нище вже зазначених вами чи іншими людьми завдань (щоб позначити, що це завдання буде виконуватись/виконане приблизно до/між/після конкретних завдань.
+
+3) Ви можете редагувати завдання.
+
+4) Усі завдання та зміни додаються у live режимі. 
+
+5) Ви можете мати приватний чат для себе, чат для двох а також чат для більш ніж 2 осіб. 
+
+6) Є можливість оформлення аккаунту (зміна фотографії, кольору імені*, додання опису про себе, соціальні мережі** та, (якщо ви працюєте чи вчитесь на постійній основі) робочі години. 
+
+* - існування функції зміни кольору імені буде залежати від того, чи буде прийнятим рішення стосовно функції зміни фону чату.
+
+** - можливо це не є важливим тому рішення щодо заснування цього ще не прийнято.
+
+
+
+
+
+
+
+
+Sometimes we don't have the time or even the desire to agree on a meeting time. And sometimes we don't know when we'll be free, so we wait all day for things to be done and only then will we be able to respond when we are still free.
+I have come up with a simple system that will be convenient for everyone, both for those who know all the time frames of their tasks and for those who do not. Why is this system convenient?
+ 1) First, because assigned tasks appear in the form of messages, like in a chat. I chose such an interface for reasons of ease of use, the familiar look of the chat, for the effect of simplicity and simplicity, as well as for a pleasant user experience, without the serious interfaces of standard gliders that scare us. (If they scare someone, of course).
+2) Emphasizing the first point, I would like to add that tasks do not necessarily have to be fixed with time frames. You can add a so-called "message" (task), including only its name or description, and if necessary, drag it above or below the tasks already specified by you or other people (to indicate that this task will be performed/completed approximately before/between/ after specific tasks.
+
+3) You can edit the task.
+
+4) All tasks and changes are added in live mode.
+
+5) You can have a private chat for yourself, a chat for two, and a chat for more than 2 people.
+
+6) It is possible to create an account (change the photo, color of the name*, add a description about yourself, social networks** and (if you work or study on a permanent basis) working hours.
+
+* - the existence of the function of changing the color of the name will depend on whether a decision is made regarding the function of changing the background of the chat.
+
+** - maybe this is not important, so the decision to establish it has not been made yet.
+
